@@ -1,0 +1,21 @@
+@font-face {
+  font-family: magna;
+  src: url('assets/font/Magna-BlackCondensed.otf');
+}
+
+@font-face {
+  font-family: pixel;
+  src: url('assets/font/04B_30__.TTF');
+}
+
+@font-face {
+  font-family: minecraft;
+  src: url('assets/font/Minecraft.ttf');
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
